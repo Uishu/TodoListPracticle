@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (7.0.1)
+  - Toaster (2.3.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - Toaster
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - Toaster
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 7f6b1b1d1497855d2beea7f2f10ffcc6978525b1
+  Toaster: c3473963c78e8cabbf6ea6f11ad0fdaae6f54987
+
+PODFILE CHECKSUM: 6814969aeed07868cc36003ddec0c96d6f198a1f
+
+COCOAPODS: 1.15.0

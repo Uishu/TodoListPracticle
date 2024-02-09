@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "48AFB445-086A-4DF8-BB7A-A41BC53AC125"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "505CB526-7A46-4FF8-AB49-D18BEF903C8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoListPracticle/System/ViewControllers/AddTaskViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "onClickAdd(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "505CB526-7A46-4FF8-AB49-D18BEF903C8F - c6eceb0443e07f64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoListPracticle.AddTaskViewController.onClickAdd(__C.UIButton) -&gt; ()"
+                  moduleName = "TodoListPracticle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elluminati/Downloads/TodoListPracticle/TodoListPracticle/System/ViewControllers/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "2174">
+               </Location>
+               <Location
+                  uuid = "505CB526-7A46-4FF8-AB49-D18BEF903C8F - 52df9d19f8c435d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in TodoListPracticle.AddTaskViewController.onClickAdd(__C.UIButton) -&gt; ()"
+                  moduleName = "TodoListPracticle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elluminati/Downloads/TodoListPracticle/TodoListPracticle/System/ViewControllers/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "505CB526-7A46-4FF8-AB49-D18BEF903C8F - c6eceb0443e07f64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoListPracticle.AddTaskViewController.onClickAdd(__C.UIButton) -&gt; ()"
+                  moduleName = "TodoListPracticle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elluminati/Downloads/TodoListPracticle/TodoListPracticle/System/ViewControllers/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1516">
+               </Location>
+               <Location
+                  uuid = "505CB526-7A46-4FF8-AB49-D18BEF903C8F - c6eceb0443e07f64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TodoListPracticle.AddTaskViewController.onClickAdd(__C.UIButton) -&gt; ()"
+                  moduleName = "TodoListPracticle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elluminati/Downloads/TodoListPracticle/TodoListPracticle/System/ViewControllers/AddTaskViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1499">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08DDDDCD-1F0C-4C8C-A855-6859501E63DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoListPracticle/System/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBCC359D-1F18-444B-A22D-D8C891979710"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoListPracticle/System/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B78C5F27-0D6B-4CE8-B177-4565FB5EA5A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TodoListPracticle/System/CoreHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "EditQuery(iscompleted:id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
